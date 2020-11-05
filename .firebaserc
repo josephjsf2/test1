@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test1-624a0": {
+      "hosting": {
+        "firebase": [
+          "test1-624a0"
+        ]
+      }
+    }
+  }
+}
